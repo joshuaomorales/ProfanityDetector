@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "strong-art-141214",
+    "private_key_id": "5ef640847854f497b40e474dc59e4fecf7c73d57",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6ujBM8NR74j2S\n4lVGpaEpXVkDTetUXDlBPOCT3ky4EEXJs8JajHv8pP5SbaB7/S7NNG51mS82tsh6\nTQRKc8ADkykPdDgrTYSt+VbsWcA8EnBBegstv5Gc1NgIdx9DMWy2/Wt21cqefQmq\nj+Hh7vF8MfVf1D/Sfxooa/BJhqwiJXjT79q9wLd0MqayE2ZRau8NMV1eFwo1zw1s\n2hPcedZnQ9elc284g2P5dmtVPs3E2Xc+BY3tIUTqiepsUUMDT30iT0IPvFo+CQax\n3ybWrcfftcovjkV1p4iJpnsM91si4cxXZt/EMp3QeDARLyND367f481Zwuw9r79P\na2z5X1S9AgMBAAECggEABERyi6OaW41vVk7FX6Sz4u/e86ghd29XIKJNSJvVOYSn\nr6UjzTF2OO8lX8lhGExQOEDZQGdEkLXLLZ5aeYAdNIe1scR4bybpoBc5cRPZBJZw\nSdLJ9BzzbTfhCwp75Kt5vlHa1Z+rroURhjwdD66IBsxWfP7rCXq9pIxY9Lk28F3M\nR7AE8bd4VyU9gImDa15bsvGAra9hnWEwABOA7/pt05hAh/sOjJlvXFH1S8Mahi6Q\ncDZpYq1YWesWaOO/hbo+WbGs6h2uvz2vIl0H7jgaJQQi4Oop0AjkBlmDkEn9Cu4m\n4YgHaxdWQC4Wzf5ihGChG0EYfjHCWG04ZSgb7VX72QKBgQD6nKdAH0Iu84r5hk1k\nNicHOp4caa0MS+an25qcesY5PTFOuI1rEXVnKd/NFwS57Zcua0Uu6CMWiHgkkjH9\nrVpLOUqYKHRboCZa8W6F2kJ+YLsPEI2izOUstq7EXqaJd46Ocn8q00O7ct7n9K5M\nwkmUBe3hF385EilWqk83Q/O0VQKBgQC+vet4m5ptOHgMlYeLFCrPoM1YxDQZjwKy\nWirTNpD+HcuUjRTCMTotkNkLbN0A8qJdiwg6QYDC9KV60hrBpMsXg2Zpwer+PsdN\nRBCw1s94por3GzwpyGNQtzqPMEs1EyuesNTp8xGb0HGWYUR1HuVfiiXTFWWUHaBV\nhcmusFnGyQKBgQD52tLYmBGI8+Cbs61W+rJgf62BEE6p0sZslgIIflNAX+TX4iGE\nHIzbRKFPPOLGZ7zxV5tLD79jyL1XYLYcfwdltgHLv5F6hCmZQ9l388mVa+UzOMKt\nC/B0atHFD8SjiyICnN5yGN0PdpAL3CMmfhGTVXH7l0yM3rF+KR//Lm07XQKBgDv9\nd4WjStp3HCq5DLxNR3mt1WfJraksNWjquvVbABcsP88k4BaDbQzPtbPGNWwK484P\n4DKST3EBiNosIoYs0kM+7ILunn4AOKawdZ9osC/+EU7Ongl2IOZN+nj2c3Dp6poq\ne4xpCmy7Dj6BsQo1AWcfB+5vmFcRSlAbl+b9R/8hAoGBAOIxM/4rOcqyb1Q+623t\nEKk1Qql0X2d1FaKO4Vq9EZ7UKX8CGvLRu8rTkN5p1sR0Am1zDZZl0FdNCCgmpiZq\n6PuXFY4lQ62Pe4aKsWS+XHOGlGG+3mCU4KiRsT5QL1eDgJtkr2aPQb0kJGQxucQe\nHcFzQgK7yWeriJWLbXvJoHVM\n-----END PRIVATE KEY-----\n",
+    "client_email": "profanitydetector@strong-art-141214.iam.gserviceaccount.com",
+    "client_id": "117276466750020246769",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/profanitydetector%40strong-art-141214.iam.gserviceaccount.com"
+  }
+  
